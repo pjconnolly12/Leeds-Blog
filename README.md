@@ -6,12 +6,12 @@ This application was built to practice learning Django and the different modules
 
 ## Skills I Learned
 I learned how to use the following tools and frameworks:
-* ** Django
-* ** Admin Setup
-* ** PostgreSQL
-* ** Template Tags
-* ** Template Filters
-* ** Pagination
-* ** Database relationships
-* ** QuerySets
-* ** Sitemaps
+* Django
+* Admin Setup
+* PostgreSQL
+* Template Tags
+* Template Filters
+* Pagination
+* Database relationships
+* QuerySets
+* Sitemaps
