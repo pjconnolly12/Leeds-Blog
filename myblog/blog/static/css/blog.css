@@ -5,15 +5,16 @@ body {
 }
 
 a { 
-    color:#00abff;
+    color:#1a0dab;
     text-decoration:none; 
 }
 
 h1 { 
     font-weight:normal;
     text-align: center;
-    border-bottom:1px solid #bbb;
+    border-bottom:1px solid #e2dc14;
     padding:0 0 10px 0;
+    color: #1a0dab;
 }
 
 h2 {
@@ -30,13 +31,17 @@ h2 {
 #sidebar { 
     float:right;
     width:20%;
-    padding:10px;
-    background:#efefef; 
+    padding:20px;
+    background:#e2dc14; 
     height:100%;
 }
 
+#sidebar h2 {
+    text-decoration: underline;
+}
+
 p.date { 
-    color:#ccc;
+    color:#00abff;
     font-family: georgia, serif;
     font-size: 12px;
     font-style: italic; 
